@@ -1,5 +1,3 @@
-# Tournament-Results-Udacity
-
 This code generates a Swiss Style tournament from the tournment.py file
 
 //// Required Files
